@@ -1,23 +1,15 @@
 package nosql.mongodb.projekat.model;
 
+import com.fasterxml.jackson.annotation.JsonProperty;
+
 public class Keywoard {
 	
-	private int id;
-	private String name;
+	@JsonProperty("id")
+	public int id;
+	@JsonProperty("id")
+	public String name;
 	
-	public int getId() {
-		return id;
-	}
-	public void setId(int id) {
-		this.id = id;
-	}
-	public String getName() {
-		return name;
-	}
-	public void setName(String name) {
-		this.name = name;
-	}
-	
+
 	
 
 }

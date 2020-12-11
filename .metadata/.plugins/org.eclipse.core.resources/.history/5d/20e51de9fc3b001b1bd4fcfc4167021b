@@ -1,0 +1,94 @@
+package nosql.monogodb.projekat.main;
+
+import java.io.FileReader;
+import java.text.SimpleDateFormat;
+import java.util.ArrayList;
+import java.util.List;
+
+import com.opencsv.CSVReader;
+import com.opencsv.CSVReaderBuilder;
+
+import nosql.mongodb.projekat.model.Company;
+import nosql.mongodb.projekat.model.Country;
+import nosql.mongodb.projekat.model.Genre;
+import nosql.mongodb.projekat.model.Keywoard;
+import nosql.mongodb.projekat.model.Movie;
+import nosql.mongodb.projekat.model.Production;
+
+public class CsvToJson {
+
+	public static List<Movie> createJson() {
+		try {
+
+			// kreiranje objekta fileReader sa CSV fajlom kao parametrom
+			FileReader fileReader = new FileReader("tmdb_5000_movies.csv");
+
+			// kreiranje csvReader objekta, fileReader kao parametar
+			// skipujemo header fajla(kolone)
+			CSVReader csvReader = new CSVReaderBuilder(fileReader).withSkipLines(1).build();
+
+			// niz linija u fajlu
+			String[] nextLine;
+
+			// za rad sa datumom
+			SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd");
+
+			int i = 1;
+
+			List<Movie> movies = new ArrayList<Movie>();
+
+			// citanje podataka liniju po liniju
+			while ((nextLine = csvReader.readNext()) != null) {
+				System.out.println("----- Linija u fajlu ----- " + i + "\n");
+				System.out.println("----- Duzina linije -----" + nextLine.length + "\n");
+
+				Movie m = new Movie();
+				long budget = Long.parseLong(nextLine[0]);
+				m.setBudget(budget);
+				System.out.println(m.getBudget());
+
+				Genre g = new Genre();
+				String genres = nextLine[1].substring(1,nextLine[1].length()-1);
+				if (nextLine[1] != null && nextLine[1] != "" && nextLine[2] != null && nextLine[2] != "") {
+					g.setId(Integer.parseInt(nextLine[1]));
+					g.setName(nextLine[2]);
+					System.out.println(g.getId() + g.getName());
+				}
+
+				g.setName(nextLine[2]);
+
+				if (nextLine[3] != null && nextLine[3] != "") {
+					m.setHomepage(nextLine[3]);
+				}
+
+				Keywoard k = new Keywoard();
+				if (nextLine[4] != null && nextLine[4] != "" && nextLine[5] != null && nextLine[5] != "") {
+					k.setId(Integer.parseInt(nextLine[4]));
+					k.setName(nextLine[5]);
+				}
+				
+				m.setOriginal_language(nextLine[6]);
+				m.setOriginal_title(nextLine[7]);
+				m.setOverview(nextLine[8]);
+				m.setPopularity(Double.parseDouble(nextLine[9]));
+
+				Production p = new Production();
+				Country c = new Country();
+				Company comp = new Company();
+				
+				
+			}
+
+			return movies;
+		} catch (Exception e) {
+			e.printStackTrace();
+			return null;
+		}
+
+	}
+
+	public static void main(String[] args) {
+
+	}
+
+}
