@@ -1,0 +1,6 @@
+package nosql.mongodb.projekat.model;
+
+public class Movie {
+
+	//dodati potrebna polja
+}

@@ -1,0 +1,29 @@
+package nosql.mongodb.projekat.model;
+
+import java.util.ArrayList;
+import java.util.Date;
+
+public class Movie {
+
+	private int id;
+	private long budget;
+	private String homepage;
+	private String original_language;
+	private String original_title;
+	private String overview;
+	private double popularity;
+	private Date release_date;
+	private long revenue;
+	private int runtime;
+	private String status;
+	private String tagline;
+	private String title;
+	
+	private ArrayList<Genre> genres;
+	private ArrayList<Keywoard> keywoards;
+	private Production production;
+	private Vote vote;
+	
+	
+	
+}

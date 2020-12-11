@@ -1,0 +1,58 @@
+
+class Movie {
+	id: int,
+	budget: long,,
+	homepage: String,
+	original_language: String,
+	original_title: String,
+	popularity: double,
+	release_date: Date,
+	revenue: long,
+	runtime: int,
+	status: String,
+	tagline: String,
+	title: String,
+
+	genres: ArrayList<Gener>
+	keywoards: ArrayList<Keywoard>
+	production: Production
+	vote: Vote
+
+}
+
+class Gener{
+	id: int,
+	name: String
+}
+
+class Keywoard{
+	id: int,
+	name: String
+}
+
+class Production{
+	companies: ArrayList<Company>
+	countries: ArrayList<Country>
+}
+
+class Company{
+	id: int,
+	name: String
+}
+
+class Country{
+	iso_3166_1: int,
+	name: String
+}
+
+class Vote{
+	average: double,
+	count: int
+}
+
+
+
+	
+	
+
+	

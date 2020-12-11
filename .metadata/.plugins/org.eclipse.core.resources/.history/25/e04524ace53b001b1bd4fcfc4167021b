@@ -1,0 +1,25 @@
+package nosql.monogodb.projekat.main;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import nosql.mongodb.projekat.model.Movie;
+
+public class CsvToJson {
+
+	public static List<Movie> createJson() {
+		try {
+
+			List<Movie> movies = new ArrayList<Movie>();
+		} catch (Exception e) {
+			e.printStackTrace();
+			return null;
+		}
+
+	}
+
+	public static void main(String[] args) {
+
+	}
+
+}

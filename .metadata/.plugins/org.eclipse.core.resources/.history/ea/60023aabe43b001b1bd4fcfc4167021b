@@ -1,0 +1,10 @@
+package nosql.mongodb.projekat.model;
+
+import java.util.ArrayList;
+
+public class Production {
+	
+	private ArrayList<Country> countries;
+	private ArrayList<Company> companies;
+
+}

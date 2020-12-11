@@ -1,0 +1,34 @@
+package nosql.monogodb.projekat.main;
+
+import java.io.FileReader;
+import java.util.ArrayList;
+import java.util.List;
+
+import com.opencsv.CSVReader;
+import com.opencsv.CSVReaderBuilder;
+
+import nosql.mongodb.projekat.model.Movie;
+
+public class CsvToJson {
+
+	public static List<Movie> createJson() {
+		try {
+			
+			FileReader fileReader = new FileReader("D:\\ZIMSKI SEMESTAR 2020\\NOSQL\\Projekat-MongoDB\\NoSQLMonogoDBProjekat"+"tmdb_5000_movies.csv");
+			
+			CSVReader csvReader = new CSVReaderBuilder(fileReader).withSkipLines(1).build();
+			List<Movie> movies = new ArrayList<Movie>();
+
+			return movies;
+		} catch (Exception e) {
+			e.printStackTrace();
+			return null;
+		}
+
+	}
+
+	public static void main(String[] args) {
+
+	}
+
+}

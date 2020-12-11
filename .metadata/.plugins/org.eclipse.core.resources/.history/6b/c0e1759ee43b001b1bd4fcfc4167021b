@@ -1,0 +1,8 @@
+package nosql.mongodb.projekat.model;
+
+public class Country {
+	
+	private int iso_3166_1;
+	private String name;
+
+}

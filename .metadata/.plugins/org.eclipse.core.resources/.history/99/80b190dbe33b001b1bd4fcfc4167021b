@@ -1,0 +1,5 @@
+package nosql.mongodb.projekat.model;
+
+public class Country {
+
+}
