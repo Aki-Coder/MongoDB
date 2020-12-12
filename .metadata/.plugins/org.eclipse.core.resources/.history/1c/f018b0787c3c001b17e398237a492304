@@ -1,0 +1,17 @@
+package nosql.mongodb.projekat.model;
+
+import java.util.ArrayList;
+
+import lombok.Getter;
+import lombok.Setter;
+
+public class Production {
+
+	@Getter
+	@Setter
+	private ArrayList<Country> countries;
+	@Getter
+	@Setter
+	private ArrayList<Company> companies;
+
+}

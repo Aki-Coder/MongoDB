@@ -6,6 +6,7 @@ public class Company {
 	
 	@JsonProperty("id")
 	private int id;
+	
 	@JsonProperty("name")
 	private String name;
 	

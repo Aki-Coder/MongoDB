@@ -1,0 +1,64 @@
+package nosql.mongodb.projekat.model;
+
+import java.util.ArrayList;
+import java.util.Date;
+
+import lombok.Getter;
+import lombok.Setter;
+
+public class Movie {
+
+	@Getter
+	@Setter
+	private int id;
+	@Getter
+	@Setter
+	private long budget;
+	@Getter
+	@Setter
+	private String homepage;
+	@Getter
+	@Setter
+	private String original_language;
+	@Getter
+	@Setter
+	private String original_title;
+	@Getter
+	@Setter
+	private String overview;
+	@Getter
+	@Setter
+	private double popularity;
+	@Getter
+	@Setter
+	private Date release_date;
+	@Getter
+	@Setter
+	private long revenue;
+	@Getter
+	@Setter
+	private int runtime;
+	@Getter
+	@Setter
+	private String status;
+	@Getter
+	@Setter
+	private String tagline;
+	@Getter
+	@Setter
+	private String title;
+
+	@Getter
+	@Setter
+	private ArrayList<Genre> genres;
+	@Getter
+	@Setter
+	private ArrayList<Keywoard> keywoards;
+	@Getter
+	@Setter
+	private Production production;
+	@Getter
+	@Setter
+	private Vote vote;
+
+}

@@ -1,0 +1,15 @@
+package nosql.mongodb.projekat.model;
+
+import lombok.Getter;
+import lombok.Setter;
+
+public class Vote {
+
+	@Getter
+	@Setter
+	private double average;
+	@Getter
+	@Setter
+	private int count;
+
+}

@@ -6,7 +6,8 @@ public class Keywoard {
 	
 	@JsonProperty("id")
 	public int id;
-	@JsonProperty("id")
+	
+	@JsonProperty("name")
 	public String name;
 	
 

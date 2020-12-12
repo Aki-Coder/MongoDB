@@ -1,9 +1,0 @@
-package nosql.monogodb.projekat.main;
-
-public class CsvToJson {
-	
-	public static void main(String[] args) {
-		
-	}
-
-}
