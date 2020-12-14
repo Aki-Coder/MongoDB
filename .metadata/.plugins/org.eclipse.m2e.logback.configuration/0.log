@@ -618,3 +618,399 @@
 2020-12-12 00:50:18,776 [Worker-153: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\main\resources
 2020-12-12 00:50:18,777 [Worker-153: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-12-12 00:50:18,777 [Worker-153: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\test\resources
+2020-12-12 12:08:02,743 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-12-12 12:09:30,846 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 12:09:30,852 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\main\resources
+2020-12-12 12:09:30,856 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 12:09:30,856 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\test\resources
+2020-12-12 12:13:26,671 [Worker-14: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: MongoDBProjekat:NoSQLMonogoDBProjekat:0.0.1-SNAPSHOT @ D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\pom.xml.
+2020-12-12 12:13:27,962 [Worker-14: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.16/lombok-1.18.16.pom
+2020-12-12 12:13:28,267 [Worker-14: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.16/lombok-1.18.16.pom
+2020-12-12 12:13:28,463 [Worker-14: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.16/lombok-1.18.16.jar
+2020-12-12 12:13:30,828 [Worker-14: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.16/lombok-1.18.16.jar
+2020-12-12 12:13:31,538 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 12:13:31,538 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\main\resources
+2020-12-12 12:13:31,541 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 12:13:31,541 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\test\resources
+2020-12-12 12:13:32,706 [Worker-14: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.16/lombok-1.18.16-sources.jar
+2020-12-12 12:13:33,693 [Worker-14: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.16/lombok-1.18.16-sources.jar
+2020-12-12 12:13:33,859 [Worker-14: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.projectlombok:lombok:1.18.16
+2020-12-12 12:13:35,782 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 12:13:35,783 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\main\resources
+2020-12-12 12:13:35,785 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 12:13:35,785 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\test\resources
+2020-12-12 12:13:45,938 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 12:13:45,938 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\main\resources
+2020-12-12 12:13:45,940 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 12:13:45,940 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\test\resources
+2020-12-12 12:14:06,964 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 12:14:06,965 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\main\resources
+2020-12-12 12:14:06,966 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 12:14:06,966 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\test\resources
+2020-12-12 12:14:20,952 [Worker-22: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-12-12 12:14:21,534 [Worker-22: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: MongoDBProjekat:NoSQLMonogoDBProjekat:0.0.1-SNAPSHOT @ D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\pom.xml.
+2020-12-12 12:14:22,031 [Worker-22: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /NoSQLMonogoDBProjekat/src/main/java
+2020-12-12 12:14:22,032 [Worker-22: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /NoSQLMonogoDBProjekat/src/test/java
+2020-12-12 12:14:22,337 [Worker-22: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 12:14:22,337 [Worker-22: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\main\resources
+2020-12-12 12:14:22,339 [Worker-22: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 12:14:22,339 [Worker-22: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\test\resources
+2020-12-12 12:14:23,016 [Worker-22: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2020-12-12 12:14:23,426 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 12:14:23,426 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\main\resources
+2020-12-12 12:14:23,430 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 12:14:23,430 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\test\resources
+2020-12-12 12:15:55,185 [Worker-24: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-12-12 12:15:55,685 [Worker-24: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: MongoDBProjekat:NoSQLMonogoDBProjekat:0.0.1-SNAPSHOT @ D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\pom.xml.
+2020-12-12 12:15:56,060 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /NoSQLMonogoDBProjekat/src/main/java
+2020-12-12 12:15:56,061 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /NoSQLMonogoDBProjekat/src/test/java
+2020-12-12 12:15:56,318 [Worker-24: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 12:15:56,318 [Worker-24: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\main\resources
+2020-12-12 12:15:56,320 [Worker-24: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 12:15:56,320 [Worker-24: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\test\resources
+2020-12-12 12:15:56,740 [Worker-24: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2020-12-12 12:15:57,087 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 12:15:57,088 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\main\resources
+2020-12-12 12:15:57,089 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 12:15:57,090 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\test\resources
+2020-12-12 12:16:09,911 [Worker-28: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-12-12 12:16:10,376 [Worker-28: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: MongoDBProjekat:NoSQLMonogoDBProjekat:0.0.1-SNAPSHOT @ D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\pom.xml.
+2020-12-12 12:16:10,677 [Worker-28: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /NoSQLMonogoDBProjekat/src/main/java
+2020-12-12 12:16:10,678 [Worker-28: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /NoSQLMonogoDBProjekat/src/test/java
+2020-12-12 12:16:10,927 [Worker-28: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 12:16:10,927 [Worker-28: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\main\resources
+2020-12-12 12:16:10,929 [Worker-28: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 12:16:10,929 [Worker-28: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\test\resources
+2020-12-12 12:16:11,336 [Worker-28: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2020-12-12 12:16:11,663 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 12:16:11,663 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\main\resources
+2020-12-12 12:16:11,665 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 12:16:11,665 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\test\resources
+2020-12-12 12:18:16,359 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 12:18:16,359 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\main\resources
+2020-12-12 12:18:16,361 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 12:18:16,362 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\test\resources
+2020-12-12 12:19:03,009 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 12:19:03,010 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\main\resources
+2020-12-12 12:19:03,011 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 12:19:03,012 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\test\resources
+2020-12-12 12:19:25,762 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 12:19:25,762 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\main\resources
+2020-12-12 12:19:25,764 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 12:19:25,764 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\test\resources
+2020-12-12 12:21:22,893 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 12:21:22,893 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\main\resources
+2020-12-12 12:21:22,895 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 12:21:22,895 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\test\resources
+2020-12-12 12:21:52,526 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 12:21:52,527 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\main\resources
+2020-12-12 12:21:52,529 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 12:21:52,529 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\test\resources
+2020-12-12 12:22:05,483 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 12:22:05,484 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\main\resources
+2020-12-12 12:22:05,488 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 12:22:05,488 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\test\resources
+2020-12-12 12:22:20,120 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 12:22:20,121 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\main\resources
+2020-12-12 12:22:20,123 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 12:22:20,123 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\test\resources
+2020-12-12 12:22:25,010 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 12:22:25,010 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\main\resources
+2020-12-12 12:22:25,012 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 12:22:25,013 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\test\resources
+2020-12-12 12:22:26,378 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 12:22:26,378 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\main\resources
+2020-12-12 12:22:26,380 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 12:22:26,380 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\test\resources
+2020-12-12 12:22:27,945 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 12:22:27,946 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\main\resources
+2020-12-12 12:22:27,948 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 12:22:27,948 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\test\resources
+2020-12-12 12:22:32,223 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 12:22:32,223 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\main\resources
+2020-12-12 12:22:32,226 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 12:22:32,226 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\test\resources
+2020-12-12 12:22:36,779 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 12:22:36,779 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\main\resources
+2020-12-12 12:22:36,781 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 12:22:36,781 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\test\resources
+2020-12-12 12:30:31,684 [Worker-41: Launching Executing clean in D__ZIMSKI SEMESTAR 2020_NOSQL_Projekat-MongoDB_NoSQLMonogoDBProjekat] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat
+2020-12-12 12:30:31,685 [Worker-41: Launching Executing clean in D__ZIMSKI SEMESTAR 2020_NOSQL_Projekat-MongoDB_NoSQLMonogoDBProjekat] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2020-12-12 12:30:34,673 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 12:30:34,673 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\main\resources
+2020-12-12 12:30:34,676 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 12:30:34,676 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\test\resources
+2020-12-12 12:31:46,532 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 12:31:46,532 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\main\resources
+2020-12-12 12:31:46,536 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 12:31:46,536 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\test\resources
+2020-12-12 12:33:18,726 [Worker-41: Launching Executing install in D__ZIMSKI SEMESTAR 2020_NOSQL_Projekat-MongoDB_NoSQLMonogoDBProjekat] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat
+2020-12-12 12:33:18,727 [Worker-41: Launching Executing install in D__ZIMSKI SEMESTAR 2020_NOSQL_Projekat-MongoDB_NoSQLMonogoDBProjekat] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2020-12-12 12:33:27,684 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 12:33:27,684 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\main\resources
+2020-12-12 12:33:27,686 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 12:33:27,686 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\test\resources
+2020-12-12 13:01:54,276 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 13:01:54,277 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\main\resources
+2020-12-12 13:01:54,279 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 13:01:54,279 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\test\resources
+2020-12-12 13:02:39,130 [Worker-53: Launching Executing install in D__ZIMSKI SEMESTAR 2020_NOSQL_Projekat-MongoDB_NoSQLMonogoDBProjekat] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat
+2020-12-12 13:02:39,130 [Worker-53: Launching Executing install in D__ZIMSKI SEMESTAR 2020_NOSQL_Projekat-MongoDB_NoSQLMonogoDBProjekat] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2020-12-12 13:02:45,131 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 13:02:45,131 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\main\resources
+2020-12-12 13:02:45,133 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 13:02:45,133 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\test\resources
+2020-12-12 14:17:12,915 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 14:17:12,916 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\main\resources
+2020-12-12 14:17:12,918 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 14:17:12,918 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\test\resources
+2020-12-12 14:17:52,498 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 14:17:52,498 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\main\resources
+2020-12-12 14:17:52,499 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 14:17:52,500 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\test\resources
+2020-12-12 14:18:06,708 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 14:18:06,709 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\main\resources
+2020-12-12 14:18:06,711 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 14:18:06,712 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\test\resources
+2020-12-12 14:18:11,260 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 14:18:11,260 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\main\resources
+2020-12-12 14:18:11,262 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 14:18:11,262 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\test\resources
+2020-12-12 14:21:02,371 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 14:21:02,372 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\main\resources
+2020-12-12 14:21:02,373 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 14:21:02,374 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\test\resources
+2020-12-12 14:21:56,808 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 14:21:56,808 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\main\resources
+2020-12-12 14:21:56,810 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 14:21:56,810 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\test\resources
+2020-12-12 14:21:59,788 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 14:21:59,788 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\main\resources
+2020-12-12 14:21:59,792 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 14:21:59,793 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\test\resources
+2020-12-12 14:23:18,077 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 14:23:18,077 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\main\resources
+2020-12-12 14:23:18,079 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 14:23:18,079 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\test\resources
+2020-12-12 14:23:23,551 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 14:23:23,551 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\main\resources
+2020-12-12 14:23:23,552 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 14:23:23,553 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\test\resources
+2020-12-12 14:24:20,651 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 14:24:20,651 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\main\resources
+2020-12-12 14:24:20,652 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 14:24:20,652 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\test\resources
+2020-12-12 15:06:08,644 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 15:06:08,645 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\main\resources
+2020-12-12 15:06:08,649 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 15:06:08,649 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\test\resources
+2020-12-12 15:07:13,374 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 15:07:13,374 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\main\resources
+2020-12-12 15:07:13,375 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 15:07:13,376 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\test\resources
+2020-12-12 15:13:10,590 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 15:13:10,591 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\main\resources
+2020-12-12 15:13:10,592 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 15:13:10,593 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\test\resources
+2020-12-12 15:13:38,077 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 15:13:38,077 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\main\resources
+2020-12-12 15:13:38,078 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 15:13:38,078 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\test\resources
+2020-12-12 15:17:15,473 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 15:17:15,473 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\main\resources
+2020-12-12 15:17:15,475 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 15:17:15,476 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\test\resources
+2020-12-12 15:26:58,827 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 15:26:58,827 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\main\resources
+2020-12-12 15:26:58,828 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 15:26:58,828 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\test\resources
+2020-12-12 15:27:07,791 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 15:27:07,791 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\main\resources
+2020-12-12 15:27:07,792 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 15:27:07,793 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\test\resources
+2020-12-12 15:27:33,979 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 15:27:33,980 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\main\resources
+2020-12-12 15:27:33,980 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 15:27:33,980 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\test\resources
+2020-12-12 15:32:55,436 [Worker-89: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: MongoDBProjekat:NoSQLMonogoDBProjekat:0.0.1-SNAPSHOT @ D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\pom.xml.
+2020-12-12 15:32:55,958 [Worker-89: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.12.0/jackson-databind-2.12.0.pom
+2020-12-12 15:32:56,149 [Worker-89: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.12.0/jackson-databind-2.12.0.pom
+2020-12-12 15:32:56,216 [Worker-89: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-base/2.12.0/jackson-base-2.12.0.pom
+2020-12-12 15:32:56,389 [Worker-89: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-base/2.12.0/jackson-base-2.12.0.pom
+2020-12-12 15:32:56,449 [Worker-89: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-bom/2.12.0/jackson-bom-2.12.0.pom
+2020-12-12 15:32:56,518 [Worker-89: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-bom/2.12.0/jackson-bom-2.12.0.pom
+2020-12-12 15:32:56,586 [Worker-89: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-parent/2.12/jackson-parent-2.12.pom
+2020-12-12 15:32:56,661 [Worker-89: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-parent/2.12/jackson-parent-2.12.pom
+2020-12-12 15:32:56,720 [Worker-89: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/oss-parent/41/oss-parent-41.pom
+2020-12-12 15:32:56,827 [Worker-89: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/oss-parent/41/oss-parent-41.pom
+2020-12-12 15:32:56,896 [Worker-89: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.12.0/jackson-annotations-2.12.0.pom
+2020-12-12 15:32:56,969 [Worker-89: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.12.0/jackson-annotations-2.12.0.pom
+2020-12-12 15:32:57,032 [Worker-89: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.12.0/jackson-core-2.12.0.pom
+2020-12-12 15:32:57,098 [Worker-89: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.12.0/jackson-core-2.12.0.pom
+2020-12-12 15:32:57,242 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.12.0/jackson-databind-2.12.0.jar
+2020-12-12 15:32:57,306 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.12.0/jackson-annotations-2.12.0.jar
+2020-12-12 15:32:57,703 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.12.0/jackson-annotations-2.12.0.jar
+2020-12-12 15:32:59,168 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.12.0/jackson-databind-2.12.0.jar
+2020-12-12 15:32:59,966 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 15:32:59,967 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\main\resources
+2020-12-12 15:32:59,968 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 15:32:59,968 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\test\resources
+2020-12-12 15:33:01,055 [Worker-88: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.12.0/jackson-databind-2.12.0-sources.jar
+2020-12-12 15:33:01,541 [Worker-76: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-12-12 15:33:02,027 [Worker-76: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: MongoDBProjekat:NoSQLMonogoDBProjekat:0.0.1-SNAPSHOT @ D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\pom.xml.
+2020-12-12 15:33:02,212 [Worker-88: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.12.0/jackson-databind-2.12.0-sources.jar
+2020-12-12 15:33:02,329 [Worker-88: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-databind:2.12.0
+2020-12-12 15:33:02,436 [Worker-76: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /NoSQLMonogoDBProjekat/src/main/java
+2020-12-12 15:33:02,437 [Worker-76: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /NoSQLMonogoDBProjekat/src/test/java
+2020-12-12 15:33:02,833 [Worker-88: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.12.0/jackson-annotations-2.12.0-sources.jar
+2020-12-12 15:33:02,963 [Worker-76: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 15:33:02,963 [Worker-76: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\main\resources
+2020-12-12 15:33:02,966 [Worker-76: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 15:33:02,966 [Worker-76: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\test\resources
+2020-12-12 15:33:03,110 [Worker-88: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.12.0/jackson-annotations-2.12.0-sources.jar
+2020-12-12 15:33:03,760 [Worker-88: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-annotations:2.12.0
+2020-12-12 15:33:03,766 [Worker-88: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-databind:2.12.0
+2020-12-12 15:33:03,771 [Worker-88: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-annotations:2.12.0
+2020-12-12 15:33:03,775 [Worker-88: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-annotations:2.12.0
+2020-12-12 15:33:03,992 [Worker-76: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2020-12-12 15:33:04,460 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 15:33:04,461 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\main\resources
+2020-12-12 15:33:04,462 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 15:33:04,462 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\test\resources
+2020-12-12 15:33:09,633 [Worker-94: Launching Executing install in D__ZIMSKI SEMESTAR 2020_NOSQL_Projekat-MongoDB_NoSQLMonogoDBProjekat] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat
+2020-12-12 15:33:09,633 [Worker-94: Launching Executing install in D__ZIMSKI SEMESTAR 2020_NOSQL_Projekat-MongoDB_NoSQLMonogoDBProjekat] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2020-12-12 15:33:15,875 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 15:33:15,876 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\main\resources
+2020-12-12 15:33:15,877 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 15:33:15,878 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\test\resources
+2020-12-12 15:39:45,779 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 15:39:45,779 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\main\resources
+2020-12-12 15:39:45,781 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 15:39:45,781 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\test\resources
+2020-12-12 15:40:19,937 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 15:40:19,937 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\main\resources
+2020-12-12 15:40:19,938 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 15:40:19,938 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\test\resources
+2020-12-12 15:52:41,377 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 15:52:41,377 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\main\resources
+2020-12-12 15:52:41,378 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 15:52:41,378 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\test\resources
+2020-12-12 15:59:59,769 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 15:59:59,770 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\main\resources
+2020-12-12 15:59:59,771 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 15:59:59,771 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\test\resources
+2020-12-12 16:00:40,953 [Worker-107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 16:00:40,953 [Worker-107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\main\resources
+2020-12-12 16:00:40,957 [Worker-107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 16:00:40,957 [Worker-107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\test\resources
+2020-12-12 16:02:57,412 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 16:02:57,412 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\main\resources
+2020-12-12 16:02:57,413 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 16:02:57,414 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\test\resources
+2020-12-12 16:03:09,156 [Worker-109: Launching CsvToJson] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 16:03:09,156 [Worker-109: Launching CsvToJson] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\main\resources
+2020-12-12 16:03:09,158 [Worker-109: Launching CsvToJson] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 16:03:09,158 [Worker-109: Launching CsvToJson] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\test\resources
+2020-12-12 16:34:58,502 [Worker-121: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 16:34:58,503 [Worker-121: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\main\resources
+2020-12-12 16:34:58,504 [Worker-121: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 16:34:58,504 [Worker-121: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\test\resources
+2020-12-12 16:35:00,616 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 16:35:00,616 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\main\resources
+2020-12-12 16:35:00,617 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 16:35:00,618 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\test\resources
+2020-12-12 16:36:37,823 [Worker-125: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 16:36:37,823 [Worker-125: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\main\resources
+2020-12-12 16:36:37,825 [Worker-125: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 16:36:37,825 [Worker-125: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\test\resources
+2020-12-12 16:36:45,439 [Worker-121: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 16:36:45,440 [Worker-121: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\main\resources
+2020-12-12 16:36:45,440 [Worker-121: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 16:36:45,441 [Worker-121: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\test\resources
+2020-12-12 16:37:12,655 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 16:37:12,655 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\main\resources
+2020-12-12 16:37:12,656 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 16:37:12,656 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\test\resources
+2020-12-12 16:38:11,617 [Worker-127: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 16:38:11,617 [Worker-127: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\main\resources
+2020-12-12 16:38:11,621 [Worker-127: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 16:38:11,622 [Worker-127: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\test\resources
+2020-12-12 16:39:09,653 [Worker-128: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 16:39:09,654 [Worker-128: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\main\resources
+2020-12-12 16:39:09,655 [Worker-128: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 16:39:09,655 [Worker-128: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\test\resources
+2020-12-12 16:40:07,933 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 16:40:07,933 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\main\resources
+2020-12-12 16:40:07,937 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 16:40:07,937 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\test\resources
+2020-12-12 16:41:07,024 [Worker-127: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 16:41:07,024 [Worker-127: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\main\resources
+2020-12-12 16:41:07,026 [Worker-127: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 16:41:07,026 [Worker-127: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\test\resources
+2020-12-12 16:41:39,921 [Worker-130: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 16:41:39,921 [Worker-130: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\main\resources
+2020-12-12 16:41:39,922 [Worker-130: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 16:41:39,922 [Worker-130: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\test\resources
+2020-12-12 16:42:39,852 [Worker-123: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 16:42:39,852 [Worker-123: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\main\resources
+2020-12-12 16:42:39,853 [Worker-123: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 16:42:39,853 [Worker-123: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\test\resources
+2020-12-12 16:43:35,217 [Worker-125: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 16:43:35,217 [Worker-125: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\main\resources
+2020-12-12 16:43:35,218 [Worker-125: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 16:43:35,218 [Worker-125: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\test\resources
+2020-12-12 16:43:58,119 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 16:43:58,119 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\main\resources
+2020-12-12 16:43:58,120 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 16:43:58,120 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\test\resources
+2020-12-12 16:44:34,667 [Worker-130: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 16:44:34,668 [Worker-130: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\main\resources
+2020-12-12 16:44:34,668 [Worker-130: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 16:44:34,669 [Worker-130: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\test\resources
+2020-12-12 16:47:46,301 [Worker-128: Launching CsvToJson] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 16:47:46,302 [Worker-128: Launching CsvToJson] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\main\resources
+2020-12-12 16:47:46,303 [Worker-128: Launching CsvToJson] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 16:47:46,303 [Worker-128: Launching CsvToJson] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\test\resources
+2020-12-12 16:56:06,833 [Worker-133: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 16:56:06,833 [Worker-133: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\main\resources
+2020-12-12 16:56:06,836 [Worker-133: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 16:56:06,836 [Worker-133: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\test\resources
+2020-12-12 16:56:16,730 [Worker-133: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 16:56:16,731 [Worker-133: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\main\resources
+2020-12-12 16:56:16,731 [Worker-133: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 16:56:16,732 [Worker-133: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\test\resources
+2020-12-12 16:59:02,964 [Worker-139: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 16:59:02,964 [Worker-139: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\main\resources
+2020-12-12 16:59:02,965 [Worker-139: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 16:59:02,966 [Worker-139: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\test\resources
+2020-12-12 17:02:09,482 [Worker-133: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 17:02:09,482 [Worker-133: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\main\resources
+2020-12-12 17:02:09,483 [Worker-133: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-12 17:02:09,483 [Worker-133: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\test\resources
+2020-12-14 17:09:00,059 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-12-14 17:15:23,977 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-14 17:15:23,982 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\main\resources
+2020-12-14 17:15:23,985 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-14 17:15:23,986 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\test\resources
+2020-12-14 17:15:48,430 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-14 17:15:48,431 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\main\resources
+2020-12-14 17:15:48,432 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-14 17:15:48,433 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\test\resources
+2020-12-14 17:16:14,339 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-14 17:16:14,340 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\main\resources
+2020-12-14 17:16:14,341 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-14 17:16:14,341 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\test\resources
+2020-12-14 17:20:06,710 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-14 17:20:06,710 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\main\resources
+2020-12-14 17:20:06,711 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-14 17:20:06,712 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\test\resources
+2020-12-14 17:32:39,074 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-14 17:32:39,074 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\main\resources
+2020-12-14 17:32:39,076 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-14 17:32:39,076 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\test\resources
+2020-12-14 18:57:18,467 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-12-15 00:08:58,869 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-12-15 00:09:32,312 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 00:09:32,316 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\main\resources
+2020-12-15 00:09:32,320 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 00:09:32,321 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ZIMSKI SEMESTAR 2020\NOSQL\Projekat-MongoDB\NoSQLMonogoDBProjekat\src\test\resources

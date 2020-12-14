@@ -47,7 +47,7 @@ public class CsvToJson {
 			String[] nextLine;
 
 			// za rad sa datumom
-			SimpleDateFormat sdf = new SimpleDateFormat("yyyy/MM/dd");
+			SimpleDateFormat sdf = new SimpleDateFormat("MM/dd/yyyy");
 
 			ObjectMapper om = new ObjectMapper();
 
@@ -78,7 +78,7 @@ public class CsvToJson {
 				}
 				// m.getGenres().forEach(x -> System.out.println(x.id + " | " + x.name));
 
-				if (nextLine[2] != null && nextLine[2] != "") {
+				if (nextLine[2] != null && !"".equals(nextLine[2])) {
 					m.setHomepage(nextLine[2]);
 				}
 
@@ -134,15 +134,15 @@ public class CsvToJson {
 					m.setRuntime(Integer.parseInt(nextLine[13]));
 					
 				}
-				if (nextLine[14] != null && nextLine[14] != "") {
+				if (nextLine[14] != null && !"".equals(nextLine[14])) {
 					m.setStatus(nextLine[14]);
 					
 				}
-				if (nextLine[15] != null && nextLine[15] != "") {
+				if (nextLine[15] != null && !"".equals(nextLine[15])) {
 					m.setTagline(nextLine[15]);
 					
 				}
-				if (nextLine[16] != null && nextLine[16] != "") {
+				if (nextLine[16] != null && !"".equals(nextLine[16])) {
 					m.setTitle(nextLine[16]);
 				}
 

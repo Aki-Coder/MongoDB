@@ -15,19 +15,20 @@
     <fullyQualifiedTypeName name="com.fasterxml.jackson.databind.ObjectMapper"/>
     <fullyQualifiedTypeName name="com.fasterxml.jackson.annotation.JsonProperty"/>
     <fullyQualifiedTypeName name="com.mongodb.util.JSON"/>
-    <fullyQualifiedTypeName name="nosql.mongodb.projekat.model.Genre"/>
     <fullyQualifiedTypeName name="com.fasterxml.jackson.databind.JsonNode"/>
-    <fullyQualifiedTypeName name="nosql.mongodb.projekat.model.Keywoard"/>
     <fullyQualifiedTypeName name="java.text.ParseException"/>
     <fullyQualifiedTypeName name="nosql.mongodb.projekat.model.Vote"/>
     <fullyQualifiedTypeName name="java.lang.Integer"/>
     <fullyQualifiedTypeName name="com.mongodb.ConnectionString"/>
     <fullyQualifiedTypeName name="org.bson.codecs.configuration.CodecRegistry"/>
-    <fullyQualifiedTypeName name="nosql.mongodb.projekat.model.Company"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="java.lang.String"/>
-    <fullyQualifiedTypeName name="nosql.mongodb.projekat.model.Country"/>
     <fullyQualifiedTypeName name="com.mongodb.client.MongoClient"/>
     <fullyQualifiedTypeName name="nosql.mongodb.projekat.model.Movie"/>
     <fullyQualifiedTypeName name="com.mongodb.operation.CreateCollectionOperation"/>
+    <fullyQualifiedTypeName name="nosql.mongodb.projekat.model.Genre"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="com.fasterxml.jackson.core.type.TypeReference"/>
+    <fullyQualifiedTypeName name="nosql.mongodb.projekat.model.Keywoard"/>
+    <fullyQualifiedTypeName name="nosql.mongodb.projekat.model.Company"/>
+    <fullyQualifiedTypeName name="nosql.mongodb.projekat.model.Country"/>
 </qualifiedTypeNameHistroy>
