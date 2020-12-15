@@ -1,26 +1,24 @@
 package nosql.mongodb.projekat.model;
 
-import java.util.ArrayList;
+import java.util.List;
 
 public class Production {
 	
-	private ArrayList<Country> countries;
-	private ArrayList<Company> companies;
+	private List<Country> countries;
+	private List<Company> companies;
 	
 	
-	public ArrayList<Country> getCountries() {
+	public List<Country> getCountries() {
 		return countries;
 	}
-	public void setCountries(ArrayList<Country> countries) {
+	public void setCountries(List<Country> countries) {
 		this.countries = countries;
 	}
-	public ArrayList<Company> getCompanies() {
+	public List<Company> getCompanies() {
 		return companies;
 	}
-	public void setCompanies(ArrayList<Company> companies) {
+	public void setCompanies(List<Company> companies) {
 		this.companies = companies;
 	}
-	
-	
 
 }

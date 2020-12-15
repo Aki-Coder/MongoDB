@@ -1,0 +1,36 @@
+package nosql.mongodb.projekat.model;
+
+import java.util.ArrayList;
+
+import com.fasterxml.jackson.annotation.JsonProperty;
+
+public class Production {
+	
+	@JsonProperty("production_countries")
+	private ArrayList<Country> countries;
+	@JsonProperty("production_companies")
+	private ArrayList<Company> companies;
+	
+	
+	public ArrayList<Country> getCountries() {
+		return countries;
+	}
+	public void setCountries(ArrayList<Country> countries) {
+		this.countries = countries;
+	}
+	public ArrayList<Company> getCompanies() {
+		return companies;
+	}
+	public void setCompanies(ArrayList<Company> companies) {
+		this.companies = companies;
+	}
+//	@Override
+//	public String toString() {
+//		return "Production [countries=" + countries + ", companies=" + companies + "]";
+//	}
+	
+	
+	
+	
+
+}

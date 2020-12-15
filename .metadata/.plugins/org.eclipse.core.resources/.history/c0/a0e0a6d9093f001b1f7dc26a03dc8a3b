@@ -1,0 +1,25 @@
+package nosql.mongodb.projekat.model;
+
+import com.fasterxml.jackson.annotation.JsonFormat;
+import com.fasterxml.jackson.annotation.JsonProperty;
+
+@JsonFormat
+public class Country {
+	
+	@JsonProperty("iso_3166_1")
+	private String iso_3166_1;
+	
+	@JsonProperty("name")
+	private String name;
+
+	@Override
+	public String toString() {
+		return "Country [iso_3166_1=" + iso_3166_1 + ", name=" + name + "]";
+	}
+	
+	
+
+	
+	
+
+}

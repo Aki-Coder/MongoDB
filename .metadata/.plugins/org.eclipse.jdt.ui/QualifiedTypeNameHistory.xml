@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="java.util.Date"/>
-    <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="java.io.FileReader"/>
     <fullyQualifiedTypeName name="com.opencsv.CSVReader"/>
     <fullyQualifiedTypeName name="com.opencsv.CSVReaderBuilder"/>
@@ -9,12 +8,8 @@
     <fullyQualifiedTypeName name="java.lang.Double"/>
     <fullyQualifiedTypeName name="nosql.mongodb.projekat.model.Production"/>
     <fullyQualifiedTypeName name="java.lang.ArrayStoreException"/>
-    <fullyQualifiedTypeName name="java.lang.reflect.Array"/>
-    <fullyQualifiedTypeName name="java.util.Arrays"/>
     <fullyQualifiedTypeName name="java.lang.Long"/>
     <fullyQualifiedTypeName name="com.fasterxml.jackson.databind.ObjectMapper"/>
-    <fullyQualifiedTypeName name="com.fasterxml.jackson.annotation.JsonProperty"/>
-    <fullyQualifiedTypeName name="com.mongodb.util.JSON"/>
     <fullyQualifiedTypeName name="com.fasterxml.jackson.databind.JsonNode"/>
     <fullyQualifiedTypeName name="java.text.ParseException"/>
     <fullyQualifiedTypeName name="nosql.mongodb.projekat.model.Vote"/>
@@ -26,9 +21,17 @@
     <fullyQualifiedTypeName name="nosql.mongodb.projekat.model.Movie"/>
     <fullyQualifiedTypeName name="com.mongodb.operation.CreateCollectionOperation"/>
     <fullyQualifiedTypeName name="nosql.mongodb.projekat.model.Genre"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="com.fasterxml.jackson.core.type.TypeReference"/>
     <fullyQualifiedTypeName name="nosql.mongodb.projekat.model.Keywoard"/>
     <fullyQualifiedTypeName name="nosql.mongodb.projekat.model.Company"/>
+    <fullyQualifiedTypeName name="com.fasterxml.jackson.annotation.JsonProperty"/>
+    <fullyQualifiedTypeName name="java.awt.List"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="nosql.mongodb.projekat.model.Country"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.lang.reflect.Array"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="com.fasterxml.jackson.annotation.JsonFormat"/>
+    <fullyQualifiedTypeName name="com.mongodb.util.JSON"/>
+    <fullyQualifiedTypeName name="com.mongodb.BasicDBObject"/>
 </qualifiedTypeNameHistroy>

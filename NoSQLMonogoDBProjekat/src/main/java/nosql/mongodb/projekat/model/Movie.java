@@ -13,9 +13,12 @@ public class Movie {
 	private String overview;
 	private double popularity;
 	private Date release_date;
+	//prihod
 	private long revenue;
+	//vreme izvodjenja
 	private int runtime;
 	private String status;
+	//slogan
 	private String tagline;
 	private String title;
 	

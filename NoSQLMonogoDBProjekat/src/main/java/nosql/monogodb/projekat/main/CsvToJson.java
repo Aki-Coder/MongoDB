@@ -65,13 +65,13 @@ public class CsvToJson {
 					long budget = Long.parseLong(nextLine[0]);
 					m.setBudget(budget);
 				}
-				System.out.println(m.getBudget());
+//				System.out.println(m.getBudget());
 
 				ArrayList<Genre> genres = new ArrayList<Genre>();
 				if (nextLine[1] != null && nextLine[1] != "") {
 
 					String json = nextLine[1];
-					System.out.println(json);
+//					System.out.println(json);
 					genres = om.readValue(json, new TypeReference<ArrayList<Genre>>() {
 					});
 					m.setGenres(genres);
@@ -88,7 +88,7 @@ public class CsvToJson {
 				ArrayList<Keywoard> keywoards = new ArrayList<Keywoard>();
 				if (nextLine[4] != null && nextLine[4] != "") {
 					String json = nextLine[4];
-					System.out.println(json);
+//					System.out.println(json);
 					keywoards = om.readValue(json, new TypeReference<ArrayList<Keywoard>>() {
 					});
 
@@ -104,27 +104,32 @@ public class CsvToJson {
 				}
 
 				Production p = new Production();
-				ArrayList<Company> companies = new ArrayList<Company>();
-				if (nextLine[9] != null && nextLine[9] != "") {
+				List<Company> companies = null;
+				if (nextLine[9] != null && !"".equals(nextLine[9])) {
 					String json = nextLine[9];
-					companies = om.readValue(json, new TypeReference<ArrayList<Company>>() {
+					companies = om.readValue(json, new TypeReference<List<Company>>() {
 					});
 
 					p.setCompanies(companies);
+					System.out.println("Lista kompanija "+companies);
 				}
 
-				ArrayList<Country> countries = new ArrayList<Country>();
-				if (nextLine[10] != null && nextLine[10] != null) {
+				List<Country> countries = null;
+				if (nextLine[10] != null && !"".equals(nextLine[10])) {
 					String json = nextLine[10];
-					countries = om.readValue(json, new TypeReference<ArrayList<Country>>() {
+					countries = om.readValue(json, new TypeReference<List<Country>>() {
 					});
 					p.setCountries(countries);
+					System.out.println("Lista zemalja "+countries);
 				}
+					m.setProduction(p);
+				
 				try {
 					m.setRelease_date(sdf.parse(nextLine[11]));
 				} catch (ParseException e) {
 					e.printStackTrace();
 				}
+			
 
 				if (nextLine[12] != null && nextLine[12] != "") {
 					m.setRevenue(Long.parseLong(nextLine[12]));
@@ -172,16 +177,22 @@ public class CsvToJson {
 	public static boolean upisiUBazu(List<Movie> movies) {
 		try {
 			ConnectionString connectionString = new ConnectionString("mongodb://localhost:27017");
-			CodecRegistry pojoCodecRegistry = fromProviders(PojoCodecProvider.builder().automatic(true).build());
-			CodecRegistry codecRegistry = fromRegistries(MongoClientSettings.getDefaultCodecRegistry(),
-					pojoCodecRegistry);
+//			CodecRegistry pojoCodecRegistry = fromProviders(PojoCodecProvider.builder().automatic(true).build());
+//			CodecRegistry codecRegistry = fromRegistries(MongoClientSettings.getDefaultCodecRegistry(),
+//					pojoCodecRegistry);
+			
+			CodecRegistry pojoCodecRegistry = fromRegistries(MongoClientSettings.getDefaultCodecRegistry(),
+	                fromProviders(PojoCodecProvider.builder().automatic(true).build()));
+			
 			MongoClientSettings clientSettings = MongoClientSettings.builder().applyConnectionString(connectionString)
-					.codecRegistry(codecRegistry).build();
+					.codecRegistry(pojoCodecRegistry).build();
+			
 
 			MongoClient mongoClient = MongoClients.create(clientSettings);
 
 			MongoDatabase db = mongoClient.getDatabase("nosql");
 			MongoCollection<Movie> col = db.getCollection("Movies", Movie.class);
+			
 			int i = 1;
 			for (Movie m : movies) {
 				System.out.println("Inserting movies " + i);
