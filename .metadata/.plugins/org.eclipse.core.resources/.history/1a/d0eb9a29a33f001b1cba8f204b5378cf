@@ -156,13 +156,8 @@ public class CsvToJson {
 				double vote_average = Double.parseDouble(nextLine[17]);
 				int vote_count = Integer.parseInt(nextLine[18]);
 				
-				v.setAverage(Double.parseDouble(nextLine[17]));
-				v.setCount(Integer.parseInt(nextLine[18]));
-				
-				m.setVote(v);
+				v.setAverage(Double.parseDouble(nextLine[18]));
 				}
-				
-				
 				movies.add(m);
 				System.out.println("----- -----");
 				System.out.println(i);

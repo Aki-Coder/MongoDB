@@ -5,7 +5,6 @@
     <fullyQualifiedTypeName name="com.opencsv.CSVReader"/>
     <fullyQualifiedTypeName name="com.opencsv.CSVReaderBuilder"/>
     <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
-    <fullyQualifiedTypeName name="java.lang.Double"/>
     <fullyQualifiedTypeName name="nosql.mongodb.projekat.model.Production"/>
     <fullyQualifiedTypeName name="java.lang.ArrayStoreException"/>
     <fullyQualifiedTypeName name="java.lang.Long"/>
@@ -13,7 +12,6 @@
     <fullyQualifiedTypeName name="com.fasterxml.jackson.databind.JsonNode"/>
     <fullyQualifiedTypeName name="java.text.ParseException"/>
     <fullyQualifiedTypeName name="nosql.mongodb.projekat.model.Vote"/>
-    <fullyQualifiedTypeName name="java.lang.Integer"/>
     <fullyQualifiedTypeName name="com.mongodb.ConnectionString"/>
     <fullyQualifiedTypeName name="org.bson.codecs.configuration.CodecRegistry"/>
     <fullyQualifiedTypeName name="java.lang.String"/>
@@ -34,4 +32,6 @@
     <fullyQualifiedTypeName name="com.fasterxml.jackson.annotation.JsonFormat"/>
     <fullyQualifiedTypeName name="com.mongodb.util.JSON"/>
     <fullyQualifiedTypeName name="com.mongodb.BasicDBObject"/>
+    <fullyQualifiedTypeName name="java.lang.Double"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
 </qualifiedTypeNameHistroy>
